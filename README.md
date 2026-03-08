@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%7C+React+%7C+Python+enthusiast;SQL+%2F+NoSQL+database+wrangler;Film+nerd+who+also+writes+code+%F0%9F%8E%AC;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=640&lines=Software+Engineer+%40+Illumin8+FZC+%F0%9F%8F%A2;Python+%C2%B7+Node.js+%C2%B7+C%23+%C2%B7+ASP.NET+%C2%B7+SQL;ERP+%C2%B7+Geospatial+%C2%B7+Publishing+domains;Aerospace+Eng+%E2%86%92+Software+Dev+%F0%9F%9B%AB;Film+nerd+who+also+writes+code+%F0%9F%8E%AC" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://letterboxd.com/[LETTERBOXD_USERNAME]/" target="_blank">
+  <a href="https://boxd.it/gPkwD/" target="_blank">
     <img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00D735" alt="Letterboxd"/>
   </a>
   &nbsp;
@@ -44,12 +44,13 @@
 
 <img align="right" alt="coding gif" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔭 Currently building full-stack applications with **Node.js** and **React**
-- 🌱 Deepening expertise in **system design** and **cloud architecture**
-- 💬 Ask me about **JavaScript, Node.js, Python, SQL, databases**
-- 🎬 I track every film I watch on **Letterboxd** — cinema is my second language
-- 📫 Reach me at **manoj.pari07@gmail.com**
-- ⚡ Fun fact: I debug code and dissect film narratives with equal enthusiasm
+- 🏢 Currently a **Software Engineer @ Illumin8 FZC**, building enterprise ERP modules in Sharjah, UAE
+- 🛫 Aerospace Engineer turned Software Developer — **4+ years** shipping production systems across ERP, geospatial & publishing domains
+- 🌍 Based in **Dubai, UAE** — open to global remote opportunities
+- 🔧 Fluent in **Python · JavaScript · Node.js · C# · ASP.NET Core** — backend-first, full-stack capable
+- 💬 Ask me about **RESTful APIs, SQL optimization, ERP systems, or geospatial data pipelines**
+- 🎬 I log every film I watch on **Letterboxd** — cinema is my second language
+- 📫 **manoj.pari07@gmail.com** · +971 504 763 350
 
 <br clear="right"/>
 
