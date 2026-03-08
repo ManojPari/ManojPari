@@ -1,19 +1,166 @@
-<h1 align="center">Hi 👋, I'm Manoj Pari Mathiyazhagan</h1>
-<h3 align="center">A passionate software developer</h3>
-
-- 🌱 I’m currently learning **React.Js**
-
-- 💬 Ask me about **JavaScript, Node.js, Python, SQL**
-
-- 📫 How to reach me **manoj.pari07@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1z9iZQcJ8ccy8J_s3PTA3bx8apgpQi9jZfrlFNJ-_SKI/edit#heading=h.x8fm1uorkbaw](https://docs.google.com/document/d/1z9iZQcJ8ccy8J_s3PTA3bx8apgpQi9jZfrlFNJ-_SKI/edit#heading=h.x8fm1uorkbaw)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manojpari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manojpari/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/manojpari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manojpari/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manoj%20Pari%20Mathiyazhagan&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Film%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=640&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%7C+React+%7C+Python+enthusiast;SQL+%2F+NoSQL+database+wrangler;Film+nerd+who+also+writes+code+%F0%9F%8E%AC;Always+learning%2C+always+building" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manojpari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/manojpari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="mailto:manoj.pari07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://letterboxd.com/[LETTERBOXD_USERNAME]/" target="_blank">
+    <img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00D735" alt="Letterboxd"/>
+  </a>
+  &nbsp;
+  <a href="https://docs.google.com/document/d/1z9iZQcJ8ccy8J_s3PTA3bx8apgpQi9jZfrlFNJ-_SKI/edit" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojpari&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojpari&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="coding gif" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🔭 Currently building full-stack applications with **Node.js** and **React**
+- 🌱 Deepening expertise in **system design** and **cloud architecture**
+- 💬 Ask me about **JavaScript, Node.js, Python, SQL, databases**
+- 🎬 I track every film I watch on **Letterboxd** — cinema is my second language
+- 📫 Reach me at **manoj.pari07@gmail.com**
+- ⚡ Fun fact: I debug code and dissect film narratives with equal enthusiasm
+
+<br clear="right"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer" width="100%"/>
+
+## 🛠️ My Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,python,html,css&theme=dark&perline=8" alt="Languages & Frameworks"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,docker,git,linux&theme=dark&perline=8" alt="Tools & Databases"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header" width="100%"/>
+
+## 💼 Work Experience
+
+<table width="100%">
+  <tr>
+    <td width="200"><b>🗓️ [Start] – [End/Present]</b></td>
+    <td>
+      <b>[Job Title]</b> @ <b>[Company Name]</b><br/>
+      • [Key responsibility or achievement]<br/>
+      • [Key responsibility or achievement]<br/>
+      • Tech used: <code>[stack placeholder]</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td><b>🗓️ [Start] – [End]</b></td>
+    <td>
+      <b>[Job Title]</b> @ <b>[Company Name]</b><br/>
+      • [Key responsibility or achievement]<br/>
+      • Tech used: <code>[stack placeholder]</code>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer" width="100%"/>
+
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/manojpari/[REPO-1]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-1]&theme=radical&show_owner=true" alt="Project 1"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/manojpari/[REPO-2]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-2]&theme=radical&show_owner=true" alt="Project 2"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/manojpari/[REPO-3]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-3]&theme=radical&show_owner=true" alt="Project 3"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/manojpari/[REPO-4]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-4]&theme=radical&show_owner=true" alt="Project 4"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/manojpari?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header" width="100%"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojpari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojpari&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpari&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" alt="Top Languages"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer" width="100%"/>
+
+## 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/manojpari?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=20" alt="LeetCode Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/manojpari/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header" width="100%"/>
+
+## 🎬 What I'm Watching
+
+<!-- LETTERBOXD-START -->
+| Film | Rating | Watched |
+|------|--------|---------|
+| *Auto-updating via GitHub Action — add your Letterboxd username to see films here* | — | — |
+<!-- LETTERBOXD-END -->
+
+<p align="center">
+  <a href="https://boxd.it/gPkwD/" target="_blank">
+    <img src="https://img.shields.io/badge/Full%20Diary%20on%20Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00D735" alt="Letterboxd Diary"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
