@@ -114,35 +114,6 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer" width="100%"/>
-
-  <a href="https://github.com/manojpari/[REPO-1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-1]&theme=radical&show_owner=true" alt="Project 1"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/manojpari/[REPO-2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-2]&theme=radical&show_owner=true" alt="Project 2"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manojpari/[REPO-3]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-3]&theme=radical&show_owner=true" alt="Project 3"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/manojpari/[REPO-4]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-4]&theme=radical&show_owner=true" alt="Project 4"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/manojpari?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header" width="100%"/>
-
 ## 📊 GitHub Stats
 
 <p align="center">
