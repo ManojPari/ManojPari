@@ -11,8 +11,8 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-LETTERBOXD_USERNAME = os.environ.get("LETTERBOXD_USERNAME", "paari01")
-RSS_URL = f"https://letterboxd.com/{LETTERBOXD_USERNAME}/rss/"
+LETTERBOXD_USERNAME = "paari01"
+RSS_URL = f"https://letterboxd.com/Paari/rss/"
 README_PATH = "README.md"
 START_MARKER = "<!-- LETTERBOXD-START -->"
 END_MARKER = "<!-- LETTERBOXD-END -->"
