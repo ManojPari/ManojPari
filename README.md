@@ -183,7 +183,7 @@
 <!-- LETTERBOXD-END -->
 
 <p align="center">
-  <a href="https://boxd.it/gPkwD/" target="_blank">
+  <a href="https://letterboxd.com/paari01/" target="_blank">
     <img src="https://img.shields.io/badge/Full%20Diary%20on%20Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=00D735" alt="Letterboxd Diary"/>
   </a>
 </p>
