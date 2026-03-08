@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojpari&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=manojpari&theme=radical&no-frame=true&no-bg=false&margin-w=6&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -49,8 +49,8 @@
 - 🌍 Based in **Dubai, UAE** — open to global remote opportunities
 - 🔧 Fluent in **Python · JavaScript · Node.js · C# · ASP.NET Core** — backend-first, full-stack capable
 - 💬 Ask me about **RESTful APIs, SQL optimization, ERP systems, or geospatial data pipelines**
-- 🎬 I log every film I watch on **Letterboxd** — cinema is my second language
-- 📫 **manoj.pari07@gmail.com** · +971 504 763 350
+- 🎬 I log every film I watch on **Letterboxd**
+- 📫 **manoj.pari07@gmail.com** 
 
 <br clear="right"/>
 
@@ -116,9 +116,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer" width="100%"/>
 
-## 🚀 Projects
-
-<!-- <p align="center"> -->
   <a href="https://github.com/manojpari/[REPO-1]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-1]&theme=radical&show_owner=true" alt="Project 1"/>
   </a>
@@ -151,11 +148,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojpari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojpari&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=manojpari&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpari&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojpari&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=footer" width="100%"/>
