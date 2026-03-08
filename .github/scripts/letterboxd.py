@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime
 
 LETTERBOXD_USERNAME = "paari01"
-RSS_URL = f"https://letterboxd.com/Paari/rss/"
+RSS_URL = f"https://letterboxd.com/paari01/rss/"
 README_PATH = "README.md"
 START_MARKER = "<!-- LETTERBOXD-START -->"
 END_MARKER = "<!-- LETTERBOXD-END -->"
