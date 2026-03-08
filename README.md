@@ -118,7 +118,7 @@
 
 ## 🚀 Projects
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://github.com/manojpari/[REPO-1]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=manojpari&repo=[REPO-1]&theme=radical&show_owner=true" alt="Project 1"/>
   </a>
@@ -175,12 +175,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=30&section=header" width="100%"/>
 
 ## 🎬 What I'm Watching
-
-<!-- LETTERBOXD-START -->
-| Film | Rating | Watched |
-|------|--------|---------|
-| *Auto-updating via GitHub Action — add your Letterboxd username to see films here* | — | — |
-<!-- LETTERBOXD-END -->
 
 <p align="center">
   <a href="https://letterboxd.com/paari01/" target="_blank">
