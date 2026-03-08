@@ -71,21 +71,45 @@
 
 <table width="100%">
   <tr>
-    <td width="200"><b>🗓️ [Start] – [End/Present]</b></td>
+    <td width="210"><b>🗓️ Feb 2025 – Present</b><br/><sub>Sharjah, UAE</sub></td>
     <td>
-      <b>[Job Title]</b> @ <b>[Company Name]</b><br/>
-      • [Key responsibility or achievement]<br/>
-      • [Key responsibility or achievement]<br/>
-      • Tech used: <code>[stack placeholder]</code>
+      <b>Software Engineer</b> @ <b>Illumin8 FZC</b><br/>
+      • Built enterprise modules in ASP.NET Web Forms with DevExpress — dynamic grids, reporting & UI components<br/>
+      • Optimized complex SQL stored procedures and backend logic ensuring data integrity across critical ERP workflows<br/>
+      • Developed hands-on across <b>HRMS, WMS, Purchase Management & Asset Management</b> modules<br/>
+      • Tech: <code>ASP.NET · C# · SQL Server · DevExpress · JavaScript</code>
     </td>
   </tr>
   <tr><td colspan="2"><hr/></td></tr>
   <tr>
-    <td><b>🗓️ [Start] – [End]</b></td>
+    <td><b>🗓️ Aug 2023 – Dec 2023</b><br/><sub>Chennai, India</sub></td>
     <td>
-      <b>[Job Title]</b> @ <b>[Company Name]</b><br/>
-      • [Key responsibility or achievement]<br/>
-      • Tech used: <code>[stack placeholder]</code>
+      <b>Software Engineer</b> @ <b>Kriyadocs</b><br/>
+      • Managed peer-review customer tickets with a consistent <b>5-hour TAT</b><br/>
+      • Achieved <b>20% optimization</b> in pre-editing file conversion service, reducing pipeline load<br/>
+      • Enabled seamless loading of metadata documents exceeding <b>100MB</b> for journal clients<br/>
+      • CI/CD pipelines via <b>GitLab</b>; project tracking with <b>Jira</b><br/>
+      • Tech: <code>JavaScript · Node.js · Microservices · GitLab CI/CD</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td><b>🗓️ Jul 2021 – Jun 2023</b><br/><sub>Remote</sub></td>
+    <td>
+      <b>Backend Developer</b> @ <b>VirtualMaze</b><br/>
+      • Integrated <b>ArcGIS API</b> for GeoJSON spatial data; NumPy-based distance analysis on DEM raster images<br/>
+      • Designed RESTful APIs with Node.js + SQL + MongoDB; automated API tests with <b>Cypress</b><br/>
+      • Implemented <b>RBAC + JWT</b> authentication and integrated APIs into React.js frontends<br/>
+      • Tech: <code>Node.js · Python · React.js · MongoDB · SQL · ArcGIS · JWT</code>
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr/></td></tr>
+  <tr>
+    <td><b>🗓️ Jan 2021 – Jul 2021</b><br/><sub>Remote</sub></td>
+    <td>
+      <b>Intern</b> @ <b>VirtualMaze Softsys.</b><br/>
+      • Developed responsive websites and API functionality using JavaScript, HTML, and CSS<br/>
+      • Tech: <code>JavaScript · HTML · CSS</code>
     </td>
   </tr>
 </table>

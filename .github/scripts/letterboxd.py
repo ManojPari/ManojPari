@@ -11,7 +11,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
 
-LETTERBOXD_USERNAME = os.environ.get("LETTERBOXD_USERNAME", "")
+LETTERBOXD_USERNAME = os.environ.get("LETTERBOXD_USERNAME", "paari01")
 RSS_URL = f"https://letterboxd.com/{LETTERBOXD_USERNAME}/rss/"
 README_PATH = "README.md"
 START_MARKER = "<!-- LETTERBOXD-START -->"
@@ -89,8 +89,9 @@ def update_readme(table: str) -> None:
 
 def main():
     if not LETTERBOXD_USERNAME:
-        print("ERROR: LETTERBOXD_USERNAME env var not set.")
+        print("ERROR: LETTERBOXD_USERNAME is empty.")
         raise SystemExit(1)
+    print(f"Using username: {LETTERBOXD_USERNAME}")
 
     print(f"Fetching RSS for user: {LETTERBOXD_USERNAME}")
     xml_data = fetch_rss(RSS_URL)
